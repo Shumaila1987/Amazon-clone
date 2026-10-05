@@ -9,6 +9,18 @@ I made this homepage from scratch using HTML, CSS, and JavaScript.
 I started by writing the HTML to build the whole page structure. Then I styled it with CSS, the navigation bar, colours, boxes, footer, everything. After that I added JavaScript to make it work: search bar, hover effects, and smooth scroll back to top.
 
 I found all the images myself, the logo, the main banner, and the four product pictures and put them all in the same folder so they show up correctly.
+## 📸 Project Preview
+
+### Main Page
+![Main Page](main_page.gif)
+
+### Logo
+![Amazon Logo](Amazon_logo.jpg)
+
+### Product Sections
+| Box 1 | Box 2 | Box 3 | Box 4 |
+|---|---|---|---|
+| ![Books](box1.jpg) | ![Furniture](box2.jpg) | ![Gaming Chair](box3.jpg) | ![Utensils](box4.jpg) |
 
 ## Files Included
 
